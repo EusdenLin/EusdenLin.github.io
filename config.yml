@@ -87,7 +87,7 @@ params:
         - name: YouTube
           url: https://www.youtube.com/@s960030
         - name: LinkedIn
-          url: https://www.linkedin.com/u/eusdenlin
+          url: https://www.linkedin.com/in/eusdenlin
     assets:
         disableScrollBarStyle: true
     cover:
