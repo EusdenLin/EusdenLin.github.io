@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Yo-Tin (Eusden) Lin
+          subtitle: "I am a Master in the Institute of Computer Science and Engineering at the National Yang Ming Chiao Tung University, Taiwan. My research focuses on computer vision and machine learning. I was a student of Professor Yen-Yu Lin and Yu-Lun Liu."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
