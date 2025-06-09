@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Yo-Tin (Eusden) Lin
+title: Eusden Lin
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -21,16 +21,16 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        # - name: Data
-        #   url: data/
+        - name: Projects
+          url: projects/
         #   weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Eusden Lin's papers and projects."
+    author: Eusden Lin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,7 +54,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Yo-Tin (Eusden) Lin
+          title: "Eusden Lin (Yo-Tin Lin)"
           subtitle: "I am a Master in the Institute of Computer Science and Engineering at the National Yang Ming Chiao Tung University, Taiwan. My research focuses on computer vision and machine learning. I was a student of Professor Yen-Yu Lin and Yu-Lun Liu."
           imageUrl: "picture.jpg"
           imageWidth: 160
@@ -68,6 +68,8 @@ params:
             #   url: books/
             - name: Courses
               url: courses/
+            - name: Projects
+              url: projects/
             # - name: Tags
             #   url: tags/
             # - name: Archive
@@ -94,7 +96,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Eusden Lin"
       icon: favicon.ico
       iconHeight: 18
 
