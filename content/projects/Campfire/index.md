@@ -4,7 +4,7 @@ date: 2022-01-05
 tags: ["Computer Graphics"]
 author: ["Eusden Lin"]
 description: "This is the final project of the Computer Graphics in 2022 Fall." 
-summary: "This This project aims to simulate the fire with computer graphics tricks - geometry/vertex shaders, and is written on my own with OpenGL api." 
+summary: "This project aims to simulate the fire with computer graphics tricks - geometry/vertex shaders, and is written on my own with OpenGL api." 
 cover:
     image: "cover.png"
     alt: "Campfire Simulator"
