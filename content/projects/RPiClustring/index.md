@@ -66,7 +66,6 @@ Open ```127.0.0.1:5000``` on your browser. (localhost:5000 is not allowed due to
 Then you can use the simple authentication tool.
 
 #### [demo video](https://www.youtube.com/watch?v=nWuQgNkLKQ0)
-<!-- {%youtube  nWuQgNkLKQ0%} -->
 
 ### application structure
 
