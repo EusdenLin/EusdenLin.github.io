@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "The projects I participated in NYCU."
+description: "The important courses I participated in NYCU."
 ---
