@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "The paper I published in VLLAB."
+description: "Research papers, manuscripts, and related materials in computer vision, machine learning, and imaging."
 ---

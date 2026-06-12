@@ -3,8 +3,8 @@ title: "Reinforcement Learning in High Dynamic Range Reconstruction with Intrins
 date: 2025-06-05
 tags: ["High Dynamic Range Imaging","Reinforcement Learning", "Computer Vision"]
 author: ["Eusden Lin", "Jin-Ting He"]
-description: "This is the final project of the Reinforcement Learning" 
-summary: "This This project aims to leverage reinforcement learning (RL) techniques for High Dynamic Range (HDR) reconstruction from Low Dynamic Range (LDR) images." 
+description: "This is the final project of the Reinforcement Learning course."
+summary: "This project aims to leverage reinforcement learning (RL) techniques for High Dynamic Range (HDR) reconstruction from Low Dynamic Range (LDR) images."
 cover:
     image: "cover.png"
     alt: "The Results of Decomposed HDR RL"

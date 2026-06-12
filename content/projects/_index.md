@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "The important courses I participated in NYCU."
+description: "Selected research, systems, and course projects in computer vision, graphics, cloud native systems, and security."
 ---

@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://eusdenlin.github.io/"
 title: Eusden Lin
 theme: PaperMod
 
@@ -29,7 +29,7 @@ menu:
         #   weight: 6
 
 params:
-    description: "This website hosts Eusden Lin's papers and projects."
+    description: "Eusden Lin's academic portfolio, research notes, and projects in computer vision and machine learning."
     author: Eusden Lin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers", "courses", "projects"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: "Eusden Lin (Yo-Tin Lin)"
-          subtitle: "I am a Master in the Institute of Computer Science and Engineering at the National Yang Ming Chiao Tung University, Taiwan. My research focuses on computer vision and machine learning. I was a student of Professor Yen-Yu Lin and Yu-Lun Liu."
+          subtitle: "I am a master's student in the Institute of Computer Science and Engineering at National Yang Ming Chiao Tung University, Taiwan. My research interests include computer vision and machine learning, and I have worked with Professor Yen-Yu Lin and Professor Yu-Lun Liu."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160

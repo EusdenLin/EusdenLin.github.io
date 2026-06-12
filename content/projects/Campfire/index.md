@@ -3,8 +3,8 @@ title: "Campfire Simulator"
 date: 2022-01-05
 tags: ["Computer Graphics"]
 author: ["Eusden Lin"]
-description: "This is the final project of the Computer Graphics in 2022 Fall." 
-summary: "This project aims to simulate the fire with computer graphics tricks - geometry/vertex shaders, and is written on my own with OpenGL api." 
+description: "This is the final project of the Computer Graphics course in Fall 2022."
+summary: "This project simulates fire with computer graphics techniques, including geometry and vertex shaders, and was implemented with OpenGL."
 cover:
     image: "cover.png"
     alt: "Campfire Simulator"
@@ -24,14 +24,14 @@ editPost:
 
 ##### Introduction
 
-This project aims to simulate the real campfire in a forest. There are several skills I used for the realisic. 
+This project aims to simulate a realistic campfire in a forest. I used several graphics techniques to improve the visual quality.
 -  **Skybox**: I used the skybox as the background of the environment. 
 
 - **Toon Shading**: The rocks' reflection.
 
-- **Inner part of the fire**: The geometry shader made it like the melting lava. 
+- **Inner part of the fire**: The geometry shader made it look like melting lava.
 
-- **Outer part of the fire**: The geometry shader with additional sin randomness made flaming effect.
+- **Outer part of the fire**: The geometry shader with additional sine-based randomness created a flaming effect.
 
 
 
