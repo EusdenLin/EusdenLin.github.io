@@ -1,5 +1,6 @@
 ---
 title: "Profanity in Early Irish" 
+draft: true
 date: 1990-06-16
 tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
 author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
